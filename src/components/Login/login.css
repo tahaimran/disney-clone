@@ -1,0 +1,38 @@
+.loginPage{
+    background-image: url("../../assets/images/login-background.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+}
+.button{
+    width: 500px;
+    height: 50px;
+    color: #f9f9f9    ;
+    background-color: #0063e5;
+    cursor: pointer;
+}
+.callToAction{
+    text-align: center;
+    display: flex;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   position: relative;
+   top:200px;
+}
+
+.imgBrands, .imgBrand{
+    width: 100%
+}
+.ctaPng{
+    width: 70%;
+}
+.textCont{
+    color: white;
+    font-size: 16px;
+    width: 60%;
+    text-align: center;
+}
